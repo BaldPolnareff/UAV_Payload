@@ -118,3 +118,4 @@
 + [Acquisto case RB Pi](https://www.kubii.it/case-supporti/2681-case-ufficiale-per-raspberry-pi-4-3272496298583.html?src=raspberrypi)
 + [Drive comune](https://drive.google.com/drive/u/0/folders/1JZfpZB9k1Y4NJlW3VKYo92gwIPiP9AJ9)
 + [Jitsi Room](https://meet.jit.si/ProgettoUAV2GruppoPayload)
++ [Lightweight lidar](https://lightwarelidar.com/)
