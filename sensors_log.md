@@ -107,3 +107,14 @@
     + [Arduino Portenta H7](https://store.arduino.cc/portenta-h7)
 
     + [Nvidia Jetson Nano Dev Kit](https://www.amazon.it/owootecc-Developer-Versione-alimentazione-parallelo/dp/B081CN3VB1/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=jetson+nano&qid=1603542139&sr=8-6) [199.99 euros][17 x 11.2 x 4.6 cm][240 g]
+
+# **Link Utili**
+
++ [PX4 Droni per incendi](https://px4.io/nxp-hovergames-fight-fires-with-flyers-contest-review-2/)
++ [Unmanned Aerial Vehicle:tecnologie e prospettive future](https://core.ac.uk/download/pdf/78373642.pdf)
++ [Dronecode Standard](https://www.dronecode.org/)
++ [PX4 Autopilot User Guide](https://docs.px4.io/master/en/)
++ [Acquisto Raspberry Pi4 8 GB](https://www.kubii.it/raspberry-pi-3-2-b/2955-raspberry-pi-4-modello-b-8gb-3272496301535.html?src=raspberrypi)
++ [Acquisto case RB Pi](https://www.kubii.it/case-supporti/2681-case-ufficiale-per-raspberry-pi-4-3272496298583.html?src=raspberrypi)
++ [Drive comune](https://drive.google.com/drive/u/0/folders/1JZfpZB9k1Y4NJlW3VKYo92gwIPiP9AJ9)
++ [Jitsi Room](https://meet.jit.si/ProgettoUAV2GruppoPayload)
