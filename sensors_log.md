@@ -119,3 +119,4 @@
 + [Drive comune](https://drive.google.com/drive/u/0/folders/1JZfpZB9k1Y4NJlW3VKYo92gwIPiP9AJ9)
 + [Jitsi Room](https://meet.jit.si/ProgettoUAV2GruppoPayload)
 + [Lightweight lidar](https://lightwarelidar.com/)
++ [Taolags](https://www.taoglas.com/product-category/iot-applications/uav-antenna-solutions/?filter=1&app=510)
