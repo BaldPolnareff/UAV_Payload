@@ -1,0 +1,9 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'Sensori.blg'
+[48] biber:330> INFO - === Fri Nov 13, 2020, 13:41:00
+[56] Biber.pm:415> INFO - Reading 'Sensori.bcf'
+[98] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[102] Utils.pm:384> WARN - The file 'Sensori.bcf' does not contain any citations!
+[107] bbl.pm:651> INFO - Writing 'Sensori.bbl' with encoding 'UTF-8'
+[107] bbl.pm:754> INFO - Output to Sensori.bbl
+[107] Biber.pm:128> INFO - WARNINGS: 1
