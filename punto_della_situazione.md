@@ -58,20 +58,20 @@
         Uno dei collegamenti deve convertire il segnale da VGA (analogico) a microHDMI (digitale).
         Non si trovano facilmente cavi VGA-microHDMI, per cui si é optato per un cavo HDMI-VGA, a cui viene aggiunto questo adattatore.
 
-    ### Collegamenti
+### Collegamenti
 
-    + **Snowkids Cavo HDMI a VGA** (1 m)
++ **Snowkids Cavo HDMI a VGA** (1 m)
 
-            Vedi: adattatore HDMI-microHDMI
+        Vedi: adattatore HDMI-microHDMI
 
-    + **Ethernet cable** (x2)
++ **Ethernet cable** (x2)
 
-            Cavi ethernet, necessari per varie connessioni.
-            Vedi: Ethernet Switch.
+        Cavi ethernet, necessari per varie connessioni.
+        Vedi: Ethernet Switch.
 
-    + **Cavo coassiale antenna** (Cavo coassiale antenna)
++ **Cavo coassiale antenna** (Cavo coassiale antenna)
 
-            Necessario per il trasmettitore.
+        Necessario per il trasmettitore.
     
     
 
@@ -84,12 +84,26 @@
 
 + **UVW-0827** (Antenna LS)
 + **DragonLink (da vedere)** (Antenna GPS)
++ **Varie antenne omnidirezionali** (per decollo e atterraggio)
+
+        Servono per la comunicazione cellular e sono antenne dipolari.
+        Ogni antenna é in una frequenza diversa (di solito 900 MHz o 2.4 GHz), perché i provider usano varie bande per comunicare, per cui si utilizza quella con segnale migliore.
+        La rete pubblica che consideriamo si interfaccia ad un server locale per la comunicazione cellular in linea di vista, invece per la comunicazione satellitare ci si interfaccia alla rete globale Iridium.
+
++ **Antenna direzionale "mezza sfera"**
+
+        Serve per la comunicazione satellitare con la costellazione Iridium.
+
++ **Due schede per il Raspberry Pi**
+
+        Sono dedicate rispettivamente alla comunicazione cellular e satellitare e, in mancanza di uno dei due segnali, avviene uno switch automatico sull'altro.
+
+
++ **Modulo 5G**
+
+        Serve per la comunicazione locale.
 
 
 
-
-## Amplificatore
-
-+ **Commtact AMLS** (Trasmettitore e modulatore)
 
         
